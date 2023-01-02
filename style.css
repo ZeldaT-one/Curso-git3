@@ -1,0 +1,33 @@
+body{
+    background-color: #1d2127;
+    color:azure;
+    font-family: "Overpass Mono", monospace;
+    padding: 0%;
+    margin: 0;
+
+}
+
+h1{
+    margin: 0 0 0 8px;
+    padding-top: 8px;
+
+}
+
+.bar{
+    background-color: brown;
+    padding: 8px;
+    display: flex;
+}
+
+.logo{
+    width: 50px;
+    height: 40px;
+}
+
+.nombre{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    padding: auto;
+    height: auto;
+    font-size: 50;
+}
