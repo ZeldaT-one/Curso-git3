@@ -31,3 +31,9 @@ h1{
     height: auto;
     font-size: 50;
 }
+
+.logo-dos{
+    padding: center;
+    height: 50px;
+    width: 100px;
+}
